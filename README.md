@@ -22,4 +22,5 @@
 
 # Partie 3 Authentification
 :one: Mettre en place le login mot de passe  
-:two: Sécuriser les routes de l'API avec un middleware  
+:two: Sécuriser les routes de l'API avec un middleware   
+:three: Définir un role ADMIN et role USER
