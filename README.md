@@ -1,5 +1,5 @@
 # Projet Node JS et Mongo DB
-[la maquette](https://seven-valley.github.io/projet-node-js-mongo-db/)
+[la maquette - La démo à intégrer](https://seven-valley.github.io/projet-node-js-mongo-db/)
 
 # Partie 1
 :one: Créer le schema de wish  
